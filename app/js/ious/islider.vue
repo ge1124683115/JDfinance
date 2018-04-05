@@ -35,7 +35,7 @@
         >h4 {
             display: none;
         }
-        margin-top: 120px;
+        margin-top: 110px;
         .content{
             img{
                 width: 100%;
